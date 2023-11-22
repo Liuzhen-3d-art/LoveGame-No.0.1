@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34031.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LianAIYouXi", "ConsoleApp2\LianAIYouXi.csproj", "{B2F0B705-AF64-4480-A21A-42DEA45545DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F0B705-AF64-4480-A21A-42DEA45545DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F0B705-AF64-4480-A21A-42DEA45545DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F0B705-AF64-4480-A21A-42DEA45545DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F0B705-AF64-4480-A21A-42DEA45545DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AF48D8A-5363-4631-9C95-10BA059DF035}
+	EndGlobalSection
+EndGlobal
